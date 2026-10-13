@@ -1,0 +1,1001 @@
+Experience,Education,JobRole,Location,Salary
+9.4,PhD,Data Analyst,Mumbai,1470069
+23.8,Master,Manager,Bangalore,2875539
+18.3,PhD,Software Engineer,Mumbai,2388630
+15.0,PhD,Manager,Mumbai,2227447
+3.9,Bachelor,Data Analyst,Mumbai,806066
+3.9,Bachelor,Manager,Hyderabad,1185534
+1.5,PhD,Data Scientist,Delhi,1162705
+21.7,Bachelor,Software Engineer,Hyderabad,2280076
+15.0,Master,Data Analyst,Delhi,1721889
+17.7,Master,Data Analyst,Bangalore,2132966
+0.5,Bachelor,Data Analyst,Bangalore,653161
+24.2,Master,Software Engineer,Mumbai,2657661
+20.8,Bachelor,Data Scientist,Delhi,2232363
+5.3,PhD,Data Analyst,Delhi,1285314
+4.5,PhD,Manager,Delhi,1552286
+4.6,Master,Data Analyst,Mumbai,1020739
+7.6,Bachelor,Data Analyst,Mumbai,1226506
+13.1,Bachelor,Data Analyst,Bangalore,1517002
+10.8,Master,Data Analyst,Hyderabad,1413044
+7.3,PhD,Data Scientist,Delhi,1590216
+15.3,Master,Manager,Delhi,1874509
+3.5,PhD,Data Scientist,Hyderabad,1325011
+7.3,Bachelor,Manager,Delhi,1632515
+9.2,PhD,Data Analyst,Mumbai,1689594
+11.4,Master,Software Engineer,Mumbai,1696196
+19.6,Bachelor,Data Scientist,Delhi,2177769
+5.0,Master,Software Engineer,Mumbai,1251676
+12.9,Master,Data Scientist,Mumbai,2004622
+14.8,PhD,Data Analyst,Delhi,1848644
+1.2,Master,Data Scientist,Bangalore,1272720
+15.2,PhD,Data Analyst,Hyderabad,1984742
+4.3,Bachelor,Data Scientist,Mumbai,1240236
+1.6,PhD,Data Analyst,Bangalore,1157688
+23.7,Bachelor,Data Analyst,Mumbai,2282511
+24.1,PhD,Manager,Mumbai,3027142
+20.2,Master,Data Analyst,Hyderabad,2153877
+7.6,PhD,Manager,Mumbai,1767670
+2.4,PhD,Data Analyst,Hyderabad,963566
+17.1,Bachelor,Software Engineer,Hyderabad,1807593
+11.0,Master,Data Analyst,Hyderabad,1605169
+3.1,PhD,Software Engineer,Bangalore,1189656
+12.4,Master,Software Engineer,Delhi,1579807
+0.9,PhD,Data Analyst,Bangalore,1076656
+22.7,PhD,Software Engineer,Delhi,2626399
+6.5,Master,Manager,Delhi,1530199
+16.6,PhD,Data Scientist,Hyderabad,2283809
+7.8,Master,Data Analyst,Mumbai,1323174
+13.0,PhD,Software Engineer,Hyderabad,2009105
+13.7,Bachelor,Data Analyst,Mumbai,1416653
+4.6,Master,Manager,Delhi,1300646
+24.2,PhD,Data Analyst,Hyderabad,2536448
+19.4,PhD,Data Analyst,Mumbai,2162164
+23.5,Bachelor,Software Engineer,Bangalore,2376538
+22.4,Master,Manager,Mumbai,2832095
+14.9,PhD,Data Scientist,Hyderabad,2148414
+23.0,Bachelor,Data Scientist,Bangalore,2536350
+2.2,PhD,Software Engineer,Mumbai,1098845
+4.9,Master,Data Analyst,Mumbai,1081334
+1.1,PhD,Software Engineer,Mumbai,1111628
+8.1,PhD,Software Engineer,Mumbai,1607557
+9.7,PhD,Software Engineer,Mumbai,1878350
+6.8,PhD,Data Analyst,Bangalore,1530630
+20.7,Bachelor,Manager,Delhi,2219145
+8.9,Bachelor,Software Engineer,Bangalore,1398969
+7.0,Master,Data Analyst,Bangalore,1371458
+13.6,Bachelor,Manager,Bangalore,2013733
+3.5,Bachelor,Software Engineer,Delhi,1084671
+20.1,Master,Data Scientist,Hyderabad,2232335
+1.9,Bachelor,Manager,Delhi,929378
+24.7,Bachelor,Software Engineer,Bangalore,2351294
+19.3,Master,Manager,Mumbai,2428026
+5.0,Master,Manager,Mumbai,1494388
+0.1,Master,Manager,Bangalore,1238397
+20.4,PhD,Manager,Mumbai,2689462
+17.7,PhD,Manager,Bangalore,2505016
+18.2,Master,Manager,Mumbai,2390938
+19.3,Master,Software Engineer,Delhi,2126209
+1.9,Master,Data Scientist,Hyderabad,1268532
+9.0,PhD,Data Analyst,Hyderabad,1316549
+2.9,PhD,Manager,Delhi,1451245
+21.6,Bachelor,Data Analyst,Delhi,2292792
+15.6,Bachelor,Software Engineer,Bangalore,1841452
+8.3,Master,Manager,Bangalore,1690068
+1.6,PhD,Data Scientist,Bangalore,1325483
+7.8,PhD,Data Analyst,Mumbai,1496180
+8.1,PhD,Manager,Bangalore,2006356
+18.2,Master,Software Engineer,Delhi,1915625
+15.9,Bachelor,Data Scientist,Hyderabad,2019069
+22.2,Master,Data Analyst,Mumbai,2210227
+11.8,Bachelor,Data Analyst,Bangalore,1449711
+3.0,Bachelor,Manager,Mumbai,1086365
+17.8,Master,Data Scientist,Mumbai,2357034
+19.0,Bachelor,Data Scientist,Bangalore,2071561
+14.0,Bachelor,Data Scientist,Mumbai,1898452
+19.3,PhD,Data Scientist,Hyderabad,2651624
+12.3,Bachelor,Software Engineer,Delhi,1407825
+13.1,Master,Data Scientist,Delhi,1943753
+10.7,Master,Data Analyst,Hyderabad,1361999
+0.6,Bachelor,Data Analyst,Mumbai,707072
+2.7,PhD,Software Engineer,Bangalore,1290725
+0.8,PhD,Data Analyst,Mumbai,960852
+15.9,Bachelor,Data Analyst,Hyderabad,1662505
+7.9,Bachelor,Data Scientist,Mumbai,1600558
+12.7,Master,Data Analyst,Delhi,1630908
+22.7,Bachelor,Software Engineer,Mumbai,2380217
+6.2,PhD,Data Scientist,Hyderabad,1406934
+10.3,Bachelor,Manager,Delhi,1502526
+18.9,Master,Data Scientist,Mumbai,2419455
+5.7,Master,Software Engineer,Mumbai,1448808
+1.9,Master,Data Scientist,Delhi,1180276
+7.2,Master,Data Scientist,Bangalore,1555759
+4.0,Master,Software Engineer,Delhi,1142066
+23.2,Bachelor,Data Scientist,Bangalore,2401930
+20.2,Bachelor,Software Engineer,Hyderabad,2074662
+15.8,Bachelor,Software Engineer,Hyderabad,1796690
+21.8,Bachelor,Manager,Delhi,2359847
+20.1,Master,Data Analyst,Delhi,2119422
+4.7,PhD,Data Analyst,Hyderabad,1203085
+22.3,Bachelor,Data Scientist,Bangalore,2418306
+13.5,PhD,Data Scientist,Hyderabad,2037236
+20.2,Bachelor,Manager,Delhi,2502992
+22.4,Bachelor,Manager,Hyderabad,2343457
+8.0,PhD,Manager,Delhi,1750672
+2.8,Master,Software Engineer,Delhi,987837
+5.7,Bachelor,Manager,Hyderabad,1273306
+10.7,Bachelor,Manager,Bangalore,1679316
+20.5,Bachelor,Data Scientist,Mumbai,2236589
+21.5,PhD,Manager,Hyderabad,2788409
+0.2,Master,Software Engineer,Mumbai,1054127
+12.8,PhD,Software Engineer,Hyderabad,1783765
+10.4,PhD,Data Scientist,Mumbai,1763815
+5.6,Master,Manager,Bangalore,1619440
+3.0,PhD,Manager,Bangalore,1441301
+8.4,Master,Software Engineer,Hyderabad,1449889
+23.6,Bachelor,Manager,Delhi,2333082
+8.1,Master,Manager,Mumbai,1754865
+13.0,Bachelor,Manager,Delhi,1666766
+17.6,PhD,Data Analyst,Delhi,2233360
+9.1,PhD,Data Scientist,Delhi,1817779
+24.3,Bachelor,Data Analyst,Bangalore,2255225
+24.1,PhD,Data Scientist,Hyderabad,2743579
+6.3,Master,Software Engineer,Hyderabad,1289251
+12.4,Bachelor,Manager,Bangalore,1830774
+7.5,PhD,Data Scientist,Bangalore,1834978
+7.1,Bachelor,Data Analyst,Hyderabad,1196115
+0.9,Master,Manager,Delhi,968128
+15.2,Master,Software Engineer,Mumbai,2128459
+12.6,PhD,Data Scientist,Mumbai,2110124
+1.3,Master,Data Scientist,Mumbai,1050209
+7.0,Bachelor,Data Scientist,Delhi,1184600
+22.7,Master,Manager,Hyderabad,2550553
+6.0,Bachelor,Data Analyst,Bangalore,1161398
+3.6,Bachelor,Data Analyst,Hyderabad,740811
+12.2,Master,Data Scientist,Delhi,2017658
+24.6,PhD,Software Engineer,Bangalore,2679771
+6.1,Master,Software Engineer,Delhi,1282388
+16.8,Bachelor,Data Analyst,Mumbai,1670998
+19.0,Bachelor,Software Engineer,Mumbai,2089198
+5.9,Master,Data Analyst,Delhi,1264554
+18.2,PhD,Data Scientist,Bangalore,2482302
+9.2,PhD,Data Analyst,Bangalore,1383199
+15.8,Bachelor,Data Analyst,Hyderabad,1626430
+15.8,Bachelor,Data Scientist,Mumbai,2022351
+13.4,PhD,Software Engineer,Hyderabad,1928035
+2.3,Master,Data Analyst,Hyderabad,961585
+20.9,Bachelor,Data Analyst,Delhi,1934674
+8.0,Bachelor,Data Scientist,Delhi,1459387
+4.7,PhD,Software Engineer,Hyderabad,1395658
+1.0,Master,Data Analyst,Mumbai,693498
+14.8,PhD,Data Scientist,Delhi,2246028
+16.9,Master,Data Analyst,Hyderabad,1815320
+0.4,Master,Manager,Hyderabad,1000876
+12.8,Master,Data Scientist,Hyderabad,1860931
+5.7,Bachelor,Software Engineer,Hyderabad,947645
+16.1,PhD,Software Engineer,Hyderabad,2011482
+4.4,PhD,Software Engineer,Hyderabad,1258556
+17.3,Master,Software Engineer,Delhi,1960416
+9.7,Bachelor,Data Analyst,Mumbai,1188204
+23.4,Bachelor,Data Analyst,Hyderabad,2207215
+3.4,PhD,Software Engineer,Bangalore,1225782
+8.5,Bachelor,Software Engineer,Delhi,1343497
+2.8,Bachelor,Software Engineer,Delhi,924838
+23.1,Master,Data Analyst,Hyderabad,2125633
+21.9,Bachelor,Software Engineer,Delhi,2147587
+6.4,Master,Software Engineer,Hyderabad,1350809
+16.5,PhD,Manager,Mumbai,2326856
+20.4,Bachelor,Manager,Mumbai,2303698
+13.9,PhD,Software Engineer,Delhi,2047808
+13.2,PhD,Data Scientist,Delhi,2185228
+6.0,Bachelor,Software Engineer,Bangalore,1148088
+2.3,Bachelor,Manager,Delhi,983179
+22.4,PhD,Data Scientist,Bangalore,2962365
+22.5,Bachelor,Data Scientist,Mumbai,2619622
+15.8,Master,Software Engineer,Mumbai,2105813
+8.5,Master,Manager,Hyderabad,1581834
+8.7,Bachelor,Manager,Mumbai,1450290
+18.1,PhD,Data Scientist,Bangalore,2437378
+22.4,Bachelor,Software Engineer,Delhi,2302194
+22.2,Bachelor,Data Analyst,Hyderabad,2094241
+19.5,PhD,Data Analyst,Bangalore,2504942
+16.1,PhD,Manager,Delhi,2418600
+2.1,Master,Data Analyst,Hyderabad,676937
+4.0,PhD,Manager,Mumbai,1658045
+22.5,Master,Manager,Bangalore,2602664
+15.2,PhD,Manager,Delhi,2252854
+0.2,Bachelor,Data Analyst,Hyderabad,541115
+2.5,Master,Manager,Hyderabad,1357142
+16.6,Master,Data Scientist,Mumbai,2522120
+0.1,Master,Software Engineer,Delhi,929530
+4.0,Bachelor,Software Engineer,Mumbai,983094
+13.7,Bachelor,Manager,Mumbai,1933735
+17.3,Bachelor,Software Engineer,Delhi,1979582
+16.3,Bachelor,Data Analyst,Delhi,1688865
+5.6,Bachelor,Data Analyst,Delhi,1151992
+17.8,Master,Software Engineer,Bangalore,2199321
+5.9,Bachelor,Data Analyst,Delhi,1044960
+8.1,Master,Software Engineer,Hyderabad,1416042
+18.7,Bachelor,Software Engineer,Mumbai,2068519
+16.2,PhD,Software Engineer,Bangalore,2320752
+21.2,Master,Manager,Delhi,2484416
+16.4,PhD,Software Engineer,Bangalore,2194992
+14.2,Master,Manager,Delhi,1944525
+2.3,PhD,Software Engineer,Bangalore,1307881
+9.2,Bachelor,Software Engineer,Mumbai,1441396
+6.6,Bachelor,Software Engineer,Mumbai,1229881
+6.1,Bachelor,Data Analyst,Hyderabad,1094431
+24.3,Master,Manager,Hyderabad,2682209
+9.8,PhD,Manager,Delhi,1984795
+22.3,Bachelor,Software Engineer,Mumbai,2171911
+15.8,PhD,Software Engineer,Bangalore,2165783
+19.9,PhD,Data Analyst,Bangalore,2460474
+12.6,Bachelor,Data Analyst,Bangalore,1614525
+14.4,Bachelor,Data Analyst,Hyderabad,1480185
+12.3,PhD,Manager,Bangalore,2154746
+4.9,Bachelor,Manager,Hyderabad,989888
+18.1,Bachelor,Manager,Hyderabad,2028588
+7.0,Bachelor,Software Engineer,Delhi,1260390
+0.6,Master,Manager,Bangalore,1230073
+16.1,PhD,Data Scientist,Bangalore,2429643
+4.4,PhD,Data Scientist,Mumbai,1534921
+23.5,Master,Data Analyst,Delhi,2406509
+23.8,PhD,Manager,Mumbai,2873343
+22.9,Bachelor,Data Scientist,Delhi,2500896
+9.3,PhD,Data Analyst,Bangalore,1689875
+0.4,Bachelor,Manager,Hyderabad,876251
+23.2,Master,Software Engineer,Hyderabad,2351954
+10.7,Bachelor,Data Scientist,Hyderabad,1283988
+24.2,PhD,Software Engineer,Hyderabad,2751361
+24.1,PhD,Manager,Hyderabad,2788451
+21.3,PhD,Data Scientist,Mumbai,2626489
+7.4,Master,Manager,Delhi,1644633
+9.6,Master,Software Engineer,Bangalore,1564720
+21.3,PhD,Data Scientist,Mumbai,2815483
+7.9,Bachelor,Software Engineer,Delhi,1296314
+4.2,Master,Manager,Hyderabad,1344969
+13.9,PhD,Manager,Delhi,2067807
+23.4,PhD,Software Engineer,Delhi,2789465
+17.4,Master,Data Scientist,Hyderabad,2174177
+14.3,Master,Software Engineer,Hyderabad,1740679
+2.4,Master,Manager,Hyderabad,1164398
+15.4,Bachelor,Software Engineer,Bangalore,1648639
+24.8,Bachelor,Manager,Hyderabad,2573460
+3.5,PhD,Software Engineer,Bangalore,1242210
+13.0,Master,Data Scientist,Hyderabad,1701810
+21.9,Bachelor,Data Scientist,Bangalore,2283167
+18.5,Master,Software Engineer,Delhi,2267614
+17.4,PhD,Software Engineer,Mumbai,2226851
+17.6,Bachelor,Data Scientist,Delhi,2212720
+9.0,Bachelor,Manager,Delhi,1455529
+7.3,Bachelor,Data Scientist,Hyderabad,1093050
+20.2,PhD,Manager,Bangalore,2604730
+20.3,Master,Software Engineer,Mumbai,2441280
+21.7,Bachelor,Software Engineer,Hyderabad,2101787
+22.8,PhD,Manager,Hyderabad,2693342
+12.8,Master,Software Engineer,Hyderabad,1690851
+12.5,PhD,Manager,Delhi,2157832
+20.0,Master,Data Analyst,Bangalore,2338756
+16.2,PhD,Data Scientist,Bangalore,2532287
+17.5,Master,Data Analyst,Mumbai,1992465
+19.9,Bachelor,Manager,Bangalore,2210032
+22.3,Master,Data Scientist,Bangalore,2596163
+8.4,PhD,Manager,Hyderabad,1767520
+9.4,PhD,Data Scientist,Hyderabad,1660894
+2.3,Master,Data Scientist,Delhi,1078753
+14.5,Bachelor,Data Scientist,Hyderabad,1796369
+0.9,Bachelor,Data Scientist,Hyderabad,808034
+11.6,Master,Manager,Hyderabad,1798076
+13.6,Master,Data Scientist,Hyderabad,1803779
+7.2,PhD,Data Scientist,Delhi,1658407
+14.8,Bachelor,Data Analyst,Hyderabad,1441535
+0.8,Master,Software Engineer,Mumbai,1042395
+0.9,Bachelor,Software Engineer,Mumbai,888884
+20.6,Master,Data Analyst,Mumbai,2054932
+9.0,Master,Data Analyst,Mumbai,1337383
+3.2,Bachelor,Manager,Hyderabad,872703
+13.1,Master,Manager,Mumbai,1948923
+19.2,Master,Manager,Hyderabad,2319145
+5.4,PhD,Data Analyst,Delhi,1162722
+15.6,Master,Data Analyst,Mumbai,1797872
+2.1,Master,Data Scientist,Bangalore,1128962
+1.3,Master,Manager,Mumbai,1211170
+13.3,PhD,Manager,Mumbai,2206805
+13.5,Bachelor,Manager,Hyderabad,1673938
+15.9,PhD,Software Engineer,Mumbai,2203184
+18.2,PhD,Data Scientist,Bangalore,2465992
+24.4,Bachelor,Manager,Hyderabad,2480576
+12.9,PhD,Manager,Hyderabad,2220871
+8.1,Bachelor,Manager,Delhi,1579220
+19.9,PhD,Software Engineer,Delhi,2291618
+6.8,Bachelor,Software Engineer,Mumbai,1276930
+11.0,Master,Data Analyst,Delhi,1609340
+2.0,PhD,Data Scientist,Delhi,1202472
+0.6,PhD,Data Analyst,Delhi,1056242
+24.1,PhD,Data Scientist,Hyderabad,2938428
+20.9,PhD,Software Engineer,Hyderabad,2300711
+17.4,Master,Manager,Hyderabad,2106205
+10.2,PhD,Data Analyst,Delhi,1747434
+4.3,Master,Manager,Hyderabad,1310415
+3.9,Master,Data Analyst,Delhi,1088912
+6.3,Master,Software Engineer,Hyderabad,1251984
+13.7,Master,Software Engineer,Hyderabad,1780216
+17.9,Bachelor,Software Engineer,Bangalore,1867896
+16.5,Bachelor,Data Analyst,Mumbai,1880077
+7.0,PhD,Data Scientist,Delhi,1786843
+23.9,Bachelor,Data Analyst,Bangalore,2298075
+18.4,Bachelor,Data Scientist,Hyderabad,2036972
+13.9,PhD,Data Analyst,Delhi,1747009
+15.3,PhD,Data Analyst,Hyderabad,1971937
+10.5,PhD,Software Engineer,Mumbai,1861506
+6.2,Bachelor,Manager,Bangalore,1377310
+8.9,Bachelor,Manager,Mumbai,1655388
+18.9,PhD,Data Scientist,Bangalore,2542823
+0.4,Master,Manager,Hyderabad,1061649
+2.9,PhD,Data Analyst,Mumbai,1071161
+1.2,Master,Data Analyst,Mumbai,878149
+1.0,Master,Software Engineer,Hyderabad,833840
+21.4,PhD,Software Engineer,Mumbai,2589587
+17.6,PhD,Manager,Delhi,2424449
+11.9,PhD,Data Scientist,Bangalore,2066657
+2.4,Bachelor,Manager,Bangalore,1203814
+12.3,Master,Manager,Bangalore,1946651
+11.8,Bachelor,Manager,Delhi,1547918
+4.3,Bachelor,Manager,Bangalore,1428062
+10.8,PhD,Data Analyst,Hyderabad,1747386
+10.0,Bachelor,Data Scientist,Mumbai,1438157
+15.4,PhD,Data Analyst,Delhi,2076708
+15.9,Master,Data Scientist,Bangalore,2141116
+1.1,PhD,Software Engineer,Hyderabad,1055631
+9.4,Bachelor,Manager,Mumbai,1604994
+15.6,Bachelor,Data Analyst,Mumbai,1691814
+12.6,PhD,Data Scientist,Delhi,1982112
+21.4,PhD,Software Engineer,Delhi,2459803
+16.5,Bachelor,Software Engineer,Delhi,1741095
+4.1,Master,Manager,Hyderabad,1181953
+1.8,Master,Data Scientist,Hyderabad,1046777
+16.1,PhD,Data Analyst,Delhi,1982658
+0.7,Master,Manager,Bangalore,1244600
+14.6,Bachelor,Data Analyst,Mumbai,1793832
+23.5,PhD,Software Engineer,Mumbai,2657398
+14.4,Bachelor,Data Analyst,Hyderabad,1531020
+9.7,Bachelor,Data Analyst,Mumbai,1349266
+16.1,Master,Manager,Bangalore,2302955
+11.5,PhD,Data Analyst,Mumbai,1779538
+13.6,PhD,Manager,Hyderabad,2179098
+23.5,Master,Software Engineer,Hyderabad,2475788
+9.7,Bachelor,Manager,Bangalore,1501913
+24.0,Bachelor,Manager,Bangalore,2718999
+22.6,Bachelor,Data Scientist,Mumbai,2543093
+4.9,Bachelor,Data Analyst,Mumbai,886306
+1.7,PhD,Software Engineer,Hyderabad,1075176
+2.5,PhD,Manager,Bangalore,1544694
+0.5,Master,Software Engineer,Bangalore,940957
+2.4,Master,Data Scientist,Bangalore,1352573
+17.1,PhD,Data Analyst,Mumbai,2401649
+1.8,PhD,Manager,Bangalore,1345982
+8.0,Bachelor,Data Analyst,Hyderabad,920103
+21.1,Bachelor,Data Scientist,Hyderabad,2258914
+0.6,Master,Data Scientist,Mumbai,1162882
+20.4,PhD,Software Engineer,Delhi,2432233
+7.0,Master,Manager,Mumbai,1738572
+3.0,PhD,Software Engineer,Delhi,1102928
+17.4,Bachelor,Data Scientist,Bangalore,2188582
+15.7,Master,Data Analyst,Mumbai,1840064
+21.9,Master,Software Engineer,Hyderabad,2487514
+18.4,PhD,Software Engineer,Bangalore,2585626
+20.1,Bachelor,Data Analyst,Hyderabad,1829426
+7.1,Master,Software Engineer,Bangalore,1368605
+4.4,Bachelor,Data Analyst,Mumbai,1016478
+18.8,Master,Manager,Delhi,2334863
+20.2,Bachelor,Data Analyst,Bangalore,2057420
+24.8,PhD,Manager,Delhi,2965923
+10.3,Master,Data Analyst,Bangalore,1360114
+9.3,Master,Data Scientist,Hyderabad,1579648
+19.4,Bachelor,Data Scientist,Hyderabad,2039750
+8.5,Bachelor,Manager,Bangalore,1497094
+23.3,Master,Manager,Delhi,2833189
+21.5,PhD,Data Scientist,Mumbai,2596572
+10.7,Bachelor,Manager,Mumbai,1752060
+18.8,Bachelor,Data Analyst,Hyderabad,1786128
+18.9,Bachelor,Data Analyst,Mumbai,1912474
+2.6,Master,Data Scientist,Hyderabad,1189504
+22.6,Master,Software Engineer,Mumbai,2513473
+12.6,Master,Data Analyst,Bangalore,1771253
+20.7,Master,Manager,Hyderabad,2523119
+8.0,PhD,Software Engineer,Hyderabad,1476956
+22.4,PhD,Software Engineer,Bangalore,2605942
+9.7,Master,Data Analyst,Hyderabad,1252588
+0.3,PhD,Data Analyst,Mumbai,906425
+22.6,Bachelor,Software Engineer,Mumbai,2599328
+2.3,Bachelor,Software Engineer,Hyderabad,884220
+8.0,Bachelor,Data Scientist,Mumbai,1293691
+23.8,Master,Manager,Delhi,2590363
+23.8,Bachelor,Data Scientist,Hyderabad,2461749
+14.3,PhD,Data Analyst,Bangalore,2058243
+15.8,Master,Data Scientist,Delhi,2170604
+11.2,PhD,Data Scientist,Hyderabad,1859284
+7.3,Bachelor,Data Scientist,Bangalore,1400573
+8.2,Bachelor,Data Scientist,Mumbai,1477951
+16.8,Bachelor,Manager,Bangalore,2135497
+18.8,Master,Manager,Delhi,2154725
+19.8,PhD,Software Engineer,Mumbai,2432283
+19.7,Master,Data Analyst,Hyderabad,1976691
+2.3,Master,Data Scientist,Mumbai,1227132
+12.4,Bachelor,Software Engineer,Hyderabad,1763761
+1.4,Master,Software Engineer,Hyderabad,917476
+13.7,Master,Software Engineer,Bangalore,1860323
+11.0,Bachelor,Manager,Bangalore,1814859
+22.2,Master,Data Scientist,Bangalore,2681751
+8.8,Bachelor,Data Scientist,Delhi,1486111
+2.9,Bachelor,Data Analyst,Delhi,845552
+3.6,Bachelor,Data Scientist,Bangalore,1355890
+19.0,Bachelor,Data Scientist,Delhi,2049555
+15.5,Master,Software Engineer,Mumbai,2029245
+2.5,Bachelor,Data Analyst,Mumbai,704327
+2.1,Bachelor,Data Scientist,Delhi,1032738
+17.5,Master,Manager,Delhi,2194827
+1.8,Master,Data Scientist,Mumbai,1135599
+20.5,PhD,Software Engineer,Hyderabad,2358746
+17.7,Master,Manager,Mumbai,2433506
+2.0,Master,Software Engineer,Mumbai,1134206
+2.1,PhD,Data Scientist,Delhi,1203894
+24.7,Master,Manager,Mumbai,2832113
+9.4,Master,Data Analyst,Delhi,1344016
+9.3,Master,Data Analyst,Delhi,1282773
+20.3,Master,Manager,Bangalore,2530698
+23.7,PhD,Manager,Mumbai,2896837
+24.7,Master,Software Engineer,Hyderabad,2748174
+18.8,Master,Manager,Bangalore,2491708
+9.4,PhD,Software Engineer,Delhi,1550693
+2.1,Bachelor,Data Scientist,Delhi,919649
+19.4,PhD,Software Engineer,Hyderabad,2412145
+14.0,Bachelor,Manager,Delhi,2066052
+10.6,PhD,Manager,Mumbai,1853790
+22.7,PhD,Data Scientist,Bangalore,2648128
+2.8,Master,Manager,Delhi,1441692
+12.3,Bachelor,Manager,Delhi,1781055
+0.3,Master,Data Analyst,Hyderabad,613040
+11.7,Bachelor,Data Analyst,Mumbai,1493619
+1.4,PhD,Data Scientist,Delhi,1014956
+3.0,PhD,Software Engineer,Hyderabad,1158269
+2.9,Bachelor,Data Analyst,Delhi,818453
+16.2,Master,Software Engineer,Hyderabad,2008545
+18.7,Master,Manager,Hyderabad,2184189
+14.6,Master,Data Analyst,Mumbai,1829464
+24.1,Master,Data Scientist,Delhi,2601259
+9.4,PhD,Data Scientist,Mumbai,1901562
+7.1,PhD,Data Scientist,Hyderabad,1510462
+21.7,PhD,Data Analyst,Bangalore,2479238
+5.6,PhD,Software Engineer,Delhi,1321711
+24.1,PhD,Manager,Bangalore,3050753
+0.3,Master,Software Engineer,Delhi,967115
+24.2,Master,Software Engineer,Mumbai,2573826
+1.1,Master,Manager,Mumbai,1179354
+22.3,Master,Manager,Mumbai,2514641
+13.2,PhD,Data Analyst,Mumbai,1863509
+24.8,PhD,Data Analyst,Mumbai,2702668
+1.8,PhD,Data Analyst,Bangalore,1391223
+13.8,Bachelor,Data Analyst,Mumbai,1478048
+24.2,Master,Data Analyst,Hyderabad,2522697
+13.1,Master,Manager,Hyderabad,1995107
+15.7,PhD,Software Engineer,Bangalore,2229511
+17.4,Master,Data Analyst,Delhi,2153422
+11.4,Master,Data Analyst,Hyderabad,1512657
+15.7,PhD,Software Engineer,Delhi,2167143
+14.6,Bachelor,Data Analyst,Bangalore,1667238
+22.5,Bachelor,Software Engineer,Delhi,2379383
+1.1,Bachelor,Software Engineer,Delhi,869178
+7.0,PhD,Manager,Delhi,1659118
+23.8,Master,Data Scientist,Delhi,2541295
+22.3,PhD,Manager,Bangalore,2837664
+11.4,PhD,Data Scientist,Hyderabad,1817395
+15.5,Master,Data Scientist,Mumbai,2128880
+6.9,Bachelor,Data Scientist,Delhi,1439161
+4.7,Bachelor,Data Analyst,Hyderabad,783482
+11.6,PhD,Manager,Hyderabad,1957190
+8.8,Bachelor,Data Scientist,Bangalore,1524169
+14.6,PhD,Software Engineer,Hyderabad,2056241
+1.9,PhD,Data Analyst,Bangalore,911347
+24.4,Master,Manager,Delhi,2704521
+24.7,Master,Data Scientist,Delhi,2756997
+17.5,Master,Software Engineer,Mumbai,2241791
+13.4,PhD,Manager,Mumbai,2158978
+7.7,Master,Manager,Mumbai,1454018
+20.3,Bachelor,Data Analyst,Hyderabad,1986112
+17.1,Bachelor,Manager,Delhi,2014743
+4.1,PhD,Data Analyst,Bangalore,1165613
+22.8,PhD,Data Scientist,Mumbai,2751688
+20.6,Master,Data Analyst,Bangalore,2250988
+23.7,PhD,Software Engineer,Bangalore,2701675
+18.1,PhD,Data Analyst,Mumbai,2019453
+15.3,Bachelor,Software Engineer,Delhi,1843183
+10.5,Bachelor,Data Analyst,Mumbai,1479413
+23.3,Master,Manager,Bangalore,2827427
+21.7,PhD,Data Scientist,Mumbai,2621843
+1.1,PhD,Software Engineer,Bangalore,1158984
+0.7,Bachelor,Data Analyst,Bangalore,695490
+9.4,PhD,Data Analyst,Mumbai,1688690
+20.3,Bachelor,Data Analyst,Hyderabad,1985302
+24.7,Master,Manager,Mumbai,2754316
+3.8,Bachelor,Manager,Hyderabad,1071429
+14.9,PhD,Software Engineer,Bangalore,2185457
+9.5,Master,Software Engineer,Bangalore,1742141
+24.2,Bachelor,Manager,Hyderabad,2567801
+21.1,Bachelor,Software Engineer,Bangalore,2302614
+21.0,Master,Data Scientist,Hyderabad,2405458
+11.7,Master,Data Scientist,Hyderabad,1891259
+10.4,Bachelor,Manager,Bangalore,1716910
+6.8,PhD,Software Engineer,Delhi,1422354
+1.4,Bachelor,Data Analyst,Hyderabad,738994
+21.6,Master,Data Scientist,Mumbai,2633054
+20.3,Bachelor,Manager,Mumbai,2298272
+25.0,Master,Software Engineer,Bangalore,2631557
+24.9,Master,Manager,Delhi,2833772
+13.9,PhD,Data Analyst,Bangalore,2018324
+19.2,Master,Data Scientist,Delhi,2375457
+23.6,Master,Manager,Hyderabad,2664471
+21.2,PhD,Manager,Hyderabad,2806879
+6.2,Master,Manager,Hyderabad,1520013
+11.3,PhD,Data Analyst,Hyderabad,1657516
+3.2,PhD,Manager,Mumbai,1590160
+23.9,Master,Data Analyst,Mumbai,2366337
+15.2,Master,Data Analyst,Bangalore,1930598
+5.7,Bachelor,Data Analyst,Delhi,1161056
+16.8,PhD,Data Scientist,Hyderabad,2253672
+15.5,Bachelor,Data Scientist,Hyderabad,1746961
+9.0,Master,Manager,Delhi,1621576
+2.8,Bachelor,Manager,Delhi,969762
+16.8,PhD,Data Scientist,Bangalore,2346777
+13.0,Bachelor,Software Engineer,Delhi,1553488
+19.3,PhD,Data Scientist,Hyderabad,2311000
+13.0,Master,Data Analyst,Hyderabad,1591848
+21.3,Master,Data Scientist,Hyderabad,2511545
+13.8,PhD,Data Analyst,Hyderabad,1725061
+14.0,Master,Manager,Hyderabad,2113570
+21.9,Master,Software Engineer,Bangalore,2515223
+10.1,Master,Manager,Hyderabad,1789153
+3.4,Master,Data Analyst,Bangalore,998743
+0.7,PhD,Data Analyst,Hyderabad,985822
+18.9,Bachelor,Data Analyst,Mumbai,1832297
+15.5,Bachelor,Software Engineer,Mumbai,1894566
+17.6,Master,Data Scientist,Mumbai,2299324
+5.3,Bachelor,Manager,Mumbai,1348012
+3.4,Bachelor,Manager,Bangalore,1071091
+0.4,Master,Data Scientist,Bangalore,1015946
+8.8,Master,Manager,Delhi,1733251
+14.7,Bachelor,Software Engineer,Hyderabad,1537521
+9.8,PhD,Manager,Mumbai,2002748
+10.9,Master,Data Analyst,Bangalore,1458867
+22.6,PhD,Data Scientist,Hyderabad,2767095
+8.7,Bachelor,Software Engineer,Hyderabad,1086195
+12.8,Master,Data Scientist,Bangalore,2034712
+19.6,PhD,Software Engineer,Mumbai,2503956
+9.9,Master,Data Analyst,Delhi,1384273
+15.6,Bachelor,Data Scientist,Hyderabad,1896854
+21.6,PhD,Manager,Delhi,2765181
+23.7,Bachelor,Software Engineer,Mumbai,2327777
+3.7,Bachelor,Data Scientist,Mumbai,1026523
+23.2,Master,Manager,Delhi,2485266
+12.3,PhD,Data Scientist,Mumbai,2116169
+6.5,Bachelor,Data Scientist,Hyderabad,1045447
+11.5,Bachelor,Data Scientist,Delhi,1643022
+24.5,PhD,Software Engineer,Mumbai,2758712
+12.3,Bachelor,Manager,Delhi,1809996
+8.2,Bachelor,Data Analyst,Hyderabad,1045111
+15.8,PhD,Software Engineer,Mumbai,2145507
+6.0,PhD,Software Engineer,Hyderabad,1443442
+1.9,PhD,Software Engineer,Mumbai,1236267
+3.2,PhD,Data Analyst,Bangalore,1257155
+3.2,Master,Manager,Mumbai,1371007
+3.8,PhD,Manager,Delhi,1342273
+3.5,Master,Manager,Mumbai,1418626
+16.0,Master,Data Scientist,Hyderabad,2112778
+4.5,Master,Data Scientist,Hyderabad,1146622
+8.6,Bachelor,Data Scientist,Mumbai,1450510
+22.4,Master,Data Analyst,Delhi,2325449
+11.8,Master,Data Scientist,Bangalore,1895983
+16.7,Bachelor,Data Analyst,Delhi,1781612
+4.3,Bachelor,Manager,Bangalore,1394696
+4.8,Bachelor,Data Scientist,Hyderabad,1194682
+1.0,PhD,Data Scientist,Delhi,1120298
+4.2,Bachelor,Software Engineer,Bangalore,1107843
+7.0,Bachelor,Data Analyst,Mumbai,1240426
+4.4,Master,Manager,Hyderabad,1328449
+2.2,Bachelor,Software Engineer,Mumbai,984327
+3.0,PhD,Software Engineer,Hyderabad,1362340
+11.5,Bachelor,Manager,Delhi,1788734
+5.2,PhD,Software Engineer,Delhi,1416015
+9.1,Bachelor,Data Analyst,Hyderabad,1241981
+12.6,Bachelor,Data Analyst,Hyderabad,1395469
+17.3,Bachelor,Data Scientist,Hyderabad,1960581
+1.0,Bachelor,Software Engineer,Delhi,713655
+20.0,PhD,Data Scientist,Bangalore,2805310
+15.7,PhD,Software Engineer,Mumbai,2086983
+2.0,Master,Data Analyst,Mumbai,1096315
+21.8,PhD,Data Analyst,Delhi,2508749
+23.0,Bachelor,Data Analyst,Mumbai,2091596
+1.5,Master,Software Engineer,Hyderabad,923651
+6.9,Master,Data Analyst,Bangalore,1104533
+20.2,Master,Software Engineer,Mumbai,2373403
+18.7,Bachelor,Data Scientist,Bangalore,2297978
+4.6,PhD,Software Engineer,Hyderabad,1213676
+5.2,Bachelor,Data Scientist,Mumbai,1248716
+9.3,Master,Software Engineer,Delhi,1703742
+12.1,Bachelor,Data Scientist,Bangalore,1697341
+15.5,Bachelor,Data Analyst,Hyderabad,1476055
+9.2,PhD,Data Scientist,Bangalore,2043765
+11.6,PhD,Data Analyst,Mumbai,1975694
+18.7,Master,Data Analyst,Mumbai,2108444
+0.9,Bachelor,Data Scientist,Delhi,995342
+6.3,Bachelor,Software Engineer,Hyderabad,1175912
+17.8,PhD,Software Engineer,Hyderabad,2124113
+22.4,Bachelor,Manager,Delhi,2398081
+12.8,Bachelor,Software Engineer,Delhi,1698523
+13.3,Bachelor,Manager,Hyderabad,1899700
+2.7,PhD,Software Engineer,Bangalore,1343839
+11.2,Master,Software Engineer,Bangalore,1624990
+13.3,Master,Data Analyst,Delhi,1890786
+6.1,Bachelor,Manager,Bangalore,1321226
+6.7,Master,Software Engineer,Hyderabad,1217662
+9.4,PhD,Manager,Mumbai,1964481
+0.5,PhD,Data Analyst,Mumbai,1160541
+8.1,Master,Data Analyst,Bangalore,1479036
+5.3,Master,Manager,Delhi,1471521
+8.2,Bachelor,Data Analyst,Delhi,1199449
+3.0,Master,Data Scientist,Delhi,1223935
+22.3,Bachelor,Data Scientist,Delhi,2444237
+14.8,Bachelor,Data Analyst,Delhi,1365831
+17.0,PhD,Data Scientist,Bangalore,2408768
+19.7,PhD,Software Engineer,Mumbai,2475182
+12.5,PhD,Manager,Mumbai,2027172
+2.2,PhD,Software Engineer,Bangalore,1290743
+13.4,Master,Manager,Delhi,1979489
+14.7,PhD,Data Analyst,Bangalore,2202520
+18.6,Master,Software Engineer,Mumbai,2361821
+10.8,PhD,Data Analyst,Hyderabad,1558824
+3.2,Master,Data Analyst,Bangalore,1038182
+7.1,Bachelor,Manager,Delhi,1369213
+9.1,Master,Manager,Mumbai,1690228
+16.1,Master,Manager,Mumbai,2249858
+14.3,PhD,Software Engineer,Mumbai,1993034
+8.9,Master,Data Scientist,Mumbai,1560108
+24.7,Bachelor,Manager,Delhi,2668673
+15.1,Bachelor,Manager,Hyderabad,1923059
+5.9,PhD,Software Engineer,Mumbai,1404715
+2.5,Bachelor,Manager,Bangalore,1217655
+3.8,Master,Software Engineer,Hyderabad,984346
+6.1,Bachelor,Data Analyst,Mumbai,1075743
+4.0,PhD,Manager,Hyderabad,1513227
+4.7,Master,Manager,Bangalore,1453131
+7.1,PhD,Data Analyst,Mumbai,1514391
+4.3,Master,Data Analyst,Bangalore,1081761
+22.4,Bachelor,Data Analyst,Delhi,2129693
+2.0,PhD,Manager,Mumbai,1389823
+13.1,PhD,Data Scientist,Mumbai,2063237
+10.3,Master,Data Scientist,Mumbai,1750517
+24.6,PhD,Data Scientist,Mumbai,2784301
+2.8,Master,Manager,Delhi,1206953
+9.9,Master,Data Analyst,Mumbai,1467760
+24.2,Master,Manager,Hyderabad,2650955
+21.6,Master,Data Analyst,Mumbai,2290488
+20.4,Bachelor,Manager,Delhi,2303700
+6.4,Master,Manager,Mumbai,1599274
+4.3,PhD,Data Analyst,Hyderabad,1236505
+16.7,Bachelor,Data Scientist,Delhi,1935149
+23.2,PhD,Data Analyst,Delhi,2436088
+13.9,Bachelor,Software Engineer,Hyderabad,1470131
+14.3,Master,Software Engineer,Hyderabad,1731602
+7.0,Bachelor,Data Analyst,Hyderabad,954771
+19.2,Bachelor,Manager,Hyderabad,2069613
+4.7,PhD,Software Engineer,Hyderabad,1147715
+8.1,PhD,Software Engineer,Delhi,1550827
+10.6,Master,Manager,Delhi,1822656
+12.7,Bachelor,Manager,Mumbai,1867821
+6.1,Bachelor,Data Scientist,Mumbai,1238475
+2.9,Bachelor,Manager,Bangalore,1109665
+15.3,Master,Data Analyst,Mumbai,1775915
+7.2,Master,Data Analyst,Mumbai,1301960
+14.5,Master,Data Scientist,Hyderabad,1862324
+3.9,Master,Software Engineer,Hyderabad,1107448
+12.0,Master,Software Engineer,Mumbai,1563409
+13.3,PhD,Manager,Bangalore,2196069
+1.3,Bachelor,Data Analyst,Hyderabad,620802
+8.4,Bachelor,Software Engineer,Mumbai,1327441
+3.4,Bachelor,Data Scientist,Mumbai,1374529
+1.6,Bachelor,Data Scientist,Delhi,975886
+24.7,Bachelor,Data Analyst,Bangalore,2282025
+8.1,Bachelor,Data Scientist,Delhi,1384573
+20.2,Bachelor,Data Scientist,Bangalore,2139656
+6.4,Bachelor,Data Analyst,Hyderabad,937561
+17.0,PhD,Manager,Bangalore,2409324
+19.0,Bachelor,Manager,Mumbai,2341938
+14.9,PhD,Data Scientist,Mumbai,2207414
+11.8,Master,Manager,Bangalore,1943582
+10.3,Bachelor,Manager,Bangalore,1607166
+8.7,Master,Data Scientist,Bangalore,1864405
+23.2,Master,Manager,Delhi,2654552
+20.8,Master,Data Scientist,Bangalore,2716840
+24.1,PhD,Software Engineer,Hyderabad,2720212
+3.1,Master,Data Analyst,Delhi,1025727
+18.3,Master,Data Analyst,Delhi,2075891
+23.5,Master,Manager,Bangalore,2811476
+4.5,Bachelor,Manager,Hyderabad,924391
+1.7,Bachelor,Manager,Delhi,968480
+18.5,PhD,Data Analyst,Mumbai,2351477
+14.4,PhD,Software Engineer,Delhi,2030438
+21.0,Bachelor,Software Engineer,Bangalore,2082681
+3.5,PhD,Data Analyst,Hyderabad,1089361
+19.9,Bachelor,Software Engineer,Bangalore,2312128
+5.0,Master,Data Analyst,Mumbai,1277537
+4.1,Master,Software Engineer,Mumbai,1180197
+4.1,PhD,Data Scientist,Mumbai,1602610
+20.4,Bachelor,Data Scientist,Bangalore,2288855
+16.6,Bachelor,Data Analyst,Delhi,1573708
+13.1,PhD,Software Engineer,Bangalore,1922918
+9.0,Bachelor,Manager,Hyderabad,1584242
+21.9,Master,Software Engineer,Delhi,2367702
+9.8,PhD,Data Scientist,Mumbai,1882441
+20.4,PhD,Data Scientist,Bangalore,2649065
+11.0,Bachelor,Software Engineer,Mumbai,1678900
+9.4,PhD,Software Engineer,Mumbai,1892249
+11.6,Bachelor,Manager,Hyderabad,1831568
+7.5,Bachelor,Manager,Delhi,1391507
+18.7,Bachelor,Software Engineer,Hyderabad,1937879
+12.6,Bachelor,Software Engineer,Hyderabad,1328096
+5.8,Bachelor,Software Engineer,Hyderabad,1154066
+22.5,PhD,Software Engineer,Mumbai,2527478
+9.6,Master,Data Analyst,Hyderabad,1373487
+13.6,Master,Software Engineer,Hyderabad,1621487
+22.7,PhD,Manager,Delhi,2757440
+15.6,PhD,Data Scientist,Delhi,2188690
+2.9,Master,Data Analyst,Hyderabad,823784
+23.5,Master,Software Engineer,Delhi,2450794
+15.7,Master,Data Scientist,Delhi,2053662
+8.4,Master,Data Analyst,Hyderabad,1349418
+3.5,Master,Data Scientist,Mumbai,1183240
+19.9,Bachelor,Software Engineer,Hyderabad,2011598
+15.5,PhD,Software Engineer,Delhi,2236923
+13.3,Bachelor,Manager,Mumbai,1802237
+22.3,Master,Software Engineer,Bangalore,2422520
+19.7,Master,Software Engineer,Mumbai,2256993
+3.8,Master,Data Analyst,Delhi,1143404
+7.8,Bachelor,Manager,Mumbai,1484924
+6.2,Bachelor,Data Analyst,Hyderabad,881735
+18.6,Master,Data Scientist,Bangalore,2430294
+0.8,Bachelor,Software Engineer,Bangalore,698453
+14.2,Bachelor,Data Scientist,Bangalore,1965443
+19.1,Master,Data Analyst,Delhi,2135163
+21.9,Bachelor,Software Engineer,Delhi,2183559
+8.6,PhD,Software Engineer,Bangalore,1614784
+20.5,PhD,Data Analyst,Mumbai,2318532
+2.8,PhD,Data Analyst,Bangalore,1247087
+21.2,PhD,Data Analyst,Mumbai,2574190
+3.2,Master,Data Analyst,Mumbai,959374
+9.9,Master,Data Analyst,Delhi,1501091
+19.9,Master,Software Engineer,Mumbai,2086564
+3.7,PhD,Data Analyst,Bangalore,1203894
+5.7,PhD,Software Engineer,Delhi,1428084
+18.1,Bachelor,Software Engineer,Hyderabad,1772974
+18.0,Bachelor,Data Analyst,Hyderabad,1666413
+16.0,PhD,Data Analyst,Delhi,1985230
+17.3,PhD,Manager,Bangalore,2543629
+13.6,PhD,Software Engineer,Hyderabad,1881035
+6.3,PhD,Data Analyst,Hyderabad,1066825
+8.6,Bachelor,Data Analyst,Mumbai,1012898
+4.5,PhD,Data Analyst,Mumbai,1227109
+22.7,Bachelor,Manager,Bangalore,2585557
+14.6,PhD,Manager,Delhi,1976185
+10.0,PhD,Data Scientist,Bangalore,1901517
+11.6,PhD,Software Engineer,Delhi,1785885
+23.7,Bachelor,Data Scientist,Hyderabad,2546580
+3.8,Bachelor,Data Analyst,Mumbai,849863
+14.7,Master,Manager,Bangalore,2194201
+12.6,PhD,Manager,Bangalore,2199431
+15.3,Master,Data Scientist,Delhi,1866988
+0.5,Master,Manager,Delhi,1168514
+21.8,Bachelor,Data Analyst,Bangalore,2197756
+23.3,Bachelor,Manager,Delhi,2562034
+14.1,Master,Data Scientist,Bangalore,2461607
+17.4,PhD,Data Analyst,Bangalore,2010728
+23.1,Bachelor,Data Scientist,Bangalore,2686844
+17.7,PhD,Manager,Hyderabad,2358923
+3.8,PhD,Data Scientist,Delhi,1475676
+14.4,Master,Data Scientist,Mumbai,2053953
+15.2,Master,Software Engineer,Mumbai,1919328
+10.6,Master,Manager,Delhi,1745245
+18.4,Master,Manager,Bangalore,2451728
+23.4,Bachelor,Data Scientist,Mumbai,2353425
+23.1,Bachelor,Software Engineer,Mumbai,2414803
+11.3,Master,Manager,Delhi,1807349
+2.8,Bachelor,Data Analyst,Mumbai,705160
+24.6,Master,Data Scientist,Bangalore,2758471
+21.0,PhD,Manager,Delhi,2823787
+3.1,PhD,Data Analyst,Bangalore,1164626
+23.0,PhD,Manager,Mumbai,2917319
+21.7,Master,Data Analyst,Mumbai,2249223
+13.0,PhD,Data Scientist,Bangalore,2233759
+14.8,Bachelor,Manager,Hyderabad,1903283
+10.0,PhD,Manager,Mumbai,2153116
+1.4,PhD,Software Engineer,Hyderabad,1028276
+8.4,PhD,Data Scientist,Mumbai,1873461
+20.1,Bachelor,Data Analyst,Hyderabad,1914800
+0.1,Master,Manager,Hyderabad,1117693
+8.3,Bachelor,Manager,Hyderabad,1311740
+10.0,Master,Data Analyst,Bangalore,1601296
+13.4,Master,Data Scientist,Hyderabad,1850973
+23.0,PhD,Software Engineer,Hyderabad,2553329
+8.7,Master,Software Engineer,Hyderabad,1395281
+8.7,Bachelor,Manager,Mumbai,1552392
+18.4,Bachelor,Data Analyst,Hyderabad,1779004
+11.3,Master,Manager,Mumbai,1912853
+5.6,PhD,Data Analyst,Hyderabad,1400870
+11.3,PhD,Software Engineer,Hyderabad,1840314
+3.5,Bachelor,Data Scientist,Bangalore,1233415
+4.4,PhD,Data Analyst,Mumbai,1233123
+12.5,Master,Software Engineer,Hyderabad,1563220
+10.5,Master,Manager,Mumbai,1928650
+22.9,Bachelor,Data Analyst,Mumbai,2308585
+9.1,Master,Data Scientist,Delhi,1791456
+14.5,Bachelor,Manager,Bangalore,1905632
+15.8,Master,Manager,Bangalore,2213508
+0.3,Bachelor,Software Engineer,Bangalore,608967
+16.6,PhD,Data Analyst,Delhi,2051943
+4.5,Master,Manager,Delhi,1471220
+24.0,Master,Data Scientist,Bangalore,2715224
+3.7,Bachelor,Data Analyst,Delhi,904208
+10.4,Bachelor,Data Scientist,Delhi,1536542
+2.1,Master,Manager,Delhi,1241768
+24.9,Bachelor,Data Scientist,Bangalore,2529761
+12.6,Master,Software Engineer,Bangalore,1817362
+14.9,PhD,Data Scientist,Bangalore,1992810
+1.7,Bachelor,Data Analyst,Delhi,678694
+18.7,Master,Data Scientist,Bangalore,2229383
+5.2,PhD,Data Scientist,Delhi,1667934
+22.5,PhD,Software Engineer,Hyderabad,2599336
+5.1,Master,Data Scientist,Delhi,1415661
+4.8,Bachelor,Data Scientist,Mumbai,1355804
+0.9,Master,Manager,Bangalore,1099070
+11.8,PhD,Manager,Bangalore,2300853
+14.1,Master,Data Analyst,Mumbai,1881691
+1.6,Bachelor,Manager,Delhi,971335
+19.4,PhD,Manager,Hyderabad,2620735
+11.3,Master,Manager,Mumbai,1782626
+13.1,Bachelor,Manager,Mumbai,1755232
+11.0,PhD,Software Engineer,Delhi,1740476
+10.0,Bachelor,Manager,Bangalore,1598438
+14.0,PhD,Software Engineer,Delhi,1903715
+3.9,Master,Software Engineer,Mumbai,1293979
+4.5,Bachelor,Manager,Mumbai,1212489
+21.5,PhD,Data Scientist,Bangalore,2793375
+23.7,Bachelor,Software Engineer,Bangalore,2348667
+9.3,Bachelor,Data Scientist,Bangalore,1371231
+6.8,Master,Data Scientist,Delhi,1510809
+16.1,Bachelor,Manager,Bangalore,1885774
+10.2,PhD,Data Analyst,Mumbai,1678421
+0.6,PhD,Manager,Mumbai,1177595
+3.9,PhD,Data Analyst,Hyderabad,1321995
+17.9,PhD,Data Analyst,Delhi,2274088
+16.5,Master,Manager,Hyderabad,2143692
+0.7,Bachelor,Manager,Mumbai,1093789
+5.5,Master,Data Analyst,Hyderabad,983820
+5.8,Bachelor,Manager,Mumbai,1378729
+16.8,Bachelor,Data Analyst,Hyderabad,1695793
+0.5,Bachelor,Data Scientist,Bangalore,960895
+2.6,Master,Manager,Hyderabad,1289425
+20.0,Bachelor,Data Scientist,Bangalore,2373102
+4.5,Master,Software Engineer,Bangalore,1271326
+16.3,PhD,Data Scientist,Delhi,2156817
+6.0,PhD,Data Scientist,Bangalore,1570815
+2.5,Bachelor,Data Analyst,Bangalore,811752
+6.1,Master,Data Scientist,Hyderabad,1364889
+18.1,PhD,Manager,Mumbai,2420947
+21.4,Master,Data Analyst,Delhi,2498636
+20.8,Master,Software Engineer,Bangalore,2534524
+9.9,Bachelor,Manager,Delhi,1635283
+16.7,PhD,Software Engineer,Hyderabad,2126353
+5.1,Bachelor,Data Scientist,Bangalore,1237502
+7.3,Bachelor,Manager,Hyderabad,1217817
+22.4,PhD,Manager,Delhi,2806336
+0.3,PhD,Software Engineer,Hyderabad,998529
+2.1,Master,Manager,Delhi,1085464
+5.2,PhD,Manager,Hyderabad,1547219
+0.7,Master,Manager,Delhi,1090905
+4.5,Master,Data Scientist,Mumbai,1176731
+14.6,Master,Software Engineer,Hyderabad,1714284
+10.5,PhD,Manager,Hyderabad,1846132
+22.3,Bachelor,Data Analyst,Mumbai,2370944
+20.4,Master,Data Analyst,Mumbai,2286182
+8.5,Bachelor,Data Analyst,Hyderabad,964632
+6.5,Bachelor,Data Analyst,Mumbai,1122595
+9.5,PhD,Data Scientist,Bangalore,1759731
+14.8,Bachelor,Manager,Delhi,2021285
+6.7,Bachelor,Software Engineer,Delhi,1101999
+15.6,PhD,Manager,Delhi,2312897
+10.2,Master,Data Scientist,Bangalore,1929050
+13.8,Bachelor,Data Analyst,Mumbai,1457366
+10.9,PhD,Data Scientist,Mumbai,1843510
+7.4,Bachelor,Manager,Hyderabad,1256955
+23.7,Bachelor,Software Engineer,Mumbai,2483631
+19.1,Master,Data Scientist,Hyderabad,2114376
+3.5,Bachelor,Software Engineer,Bangalore,711982
+21.7,PhD,Data Scientist,Delhi,2654703
+12.2,Bachelor,Software Engineer,Delhi,1588179
+22.4,Master,Software Engineer,Delhi,2545493
+20.0,Master,Data Analyst,Mumbai,2153431
+10.6,PhD,Software Engineer,Hyderabad,1652981
+0.6,Master,Data Analyst,Hyderabad,834711
+6.7,Bachelor,Manager,Bangalore,1233211
+13.5,Master,Manager,Mumbai,2009008
+15.8,PhD,Data Analyst,Bangalore,2127629
+6.4,Master,Data Analyst,Hyderabad,1176225
+3.5,Master,Data Scientist,Hyderabad,1122892
+20.9,Master,Data Scientist,Delhi,2474572
+24.6,PhD,Data Scientist,Mumbai,2693871
+13.1,Master,Manager,Hyderabad,1834133
+4.3,Master,Data Scientist,Delhi,1355790
+6.8,Bachelor,Software Engineer,Mumbai,1098308
+0.5,PhD,Software Engineer,Bangalore,1138082
+22.9,Master,Data Scientist,Mumbai,2694710
+2.9,PhD,Software Engineer,Mumbai,1241809
+14.4,Master,Manager,Hyderabad,2005950
+6.9,Master,Software Engineer,Hyderabad,1163323
+13.9,Master,Manager,Mumbai,2049150
+16.3,Bachelor,Data Analyst,Hyderabad,1701007
+20.7,Bachelor,Data Analyst,Hyderabad,1967745
+5.2,Bachelor,Data Analyst,Hyderabad,802584
+0.3,PhD,Data Analyst,Delhi,971664
+3.4,PhD,Software Engineer,Delhi,1341011
+22.5,Bachelor,Data Scientist,Mumbai,2240038
+21.8,PhD,Software Engineer,Hyderabad,2595215
+14.9,Master,Manager,Delhi,2071847
+15.0,Master,Software Engineer,Mumbai,1993453
+16.6,Master,Software Engineer,Hyderabad,2063539
+4.4,Bachelor,Manager,Bangalore,1119732
+22.9,PhD,Data Analyst,Hyderabad,2379277
+10.5,Bachelor,Data Analyst,Hyderabad,1203994
+9.6,PhD,Data Analyst,Delhi,1522117
+13.0,Master,Data Scientist,Mumbai,2131600
+1.2,Bachelor,Manager,Mumbai,916513
+4.2,PhD,Manager,Delhi,1465441
+18.5,PhD,Software Engineer,Hyderabad,2261998
+2.1,Master,Data Scientist,Bangalore,1104683
+15.1,Bachelor,Data Analyst,Hyderabad,1515948
+6.1,Bachelor,Data Scientist,Hyderabad,1211106
+9.7,Bachelor,Manager,Bangalore,1597981
+7.2,Master,Manager,Delhi,1555875
+8.9,Bachelor,Software Engineer,Mumbai,1289494
+18.0,Master,Software Engineer,Delhi,1966883
+7.4,Master,Manager,Delhi,1612122
+14.2,Master,Data Analyst,Hyderabad,1846701
+11.9,PhD,Data Analyst,Mumbai,1804928
+16.6,Bachelor,Data Scientist,Mumbai,2053951
+23.4,Bachelor,Manager,Delhi,2588724
+18.3,Master,Manager,Bangalore,2285068
+5.4,Master,Data Analyst,Delhi,1306397
+0.8,Bachelor,Data Analyst,Bangalore,724803
+6.6,Master,Manager,Mumbai,1722148
+14.9,Bachelor,Software Engineer,Delhi,1648083
+1.3,PhD,Manager,Hyderabad,1421801
+12.4,Master,Manager,Delhi,2006156
+14.9,Bachelor,Data Analyst,Mumbai,1719779
+8.4,Master,Data Analyst,Hyderabad,1288329
+19.3,Bachelor,Software Engineer,Hyderabad,1924243
+2.7,Bachelor,Software Engineer,Bangalore,1056600
+1.9,Master,Data Scientist,Hyderabad,1075527
+18.2,PhD,Manager,Hyderabad,2227623
+12.4,Bachelor,Data Analyst,Delhi,1335391
+17.2,Bachelor,Software Engineer,Mumbai,1906120
+10.9,Bachelor,Data Scientist,Bangalore,1691948
+6.2,PhD,Data Scientist,Delhi,1605545
+20.5,PhD,Data Analyst,Hyderabad,2405326
+20.0,Master,Data Analyst,Hyderabad,1883868
+17.4,PhD,Data Scientist,Bangalore,2480078
+6.8,Master,Software Engineer,Mumbai,1194456
+14.8,Master,Data Scientist,Bangalore,2188875
+9.0,PhD,Manager,Delhi,1852258
+2.3,Master,Manager,Bangalore,1332230
+22.9,PhD,Data Analyst,Hyderabad,2368910
+3.4,Master,Software Engineer,Delhi,1227379
+23.8,PhD,Software Engineer,Hyderabad,2717088
+11.2,PhD,Manager,Mumbai,2108865
