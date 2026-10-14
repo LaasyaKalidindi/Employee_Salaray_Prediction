@@ -5,7 +5,7 @@ Live Demo: [Open the application](https://employee-salaray-prediction-34ed.onren
 
 Tech Stack: Python, Flask, Pandas, Scikit-learn, HTML, CSS
 
-Features
+Features: 
 
 Interactive salary prediction interface
 
